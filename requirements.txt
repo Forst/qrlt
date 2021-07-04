@@ -1,0 +1,7 @@
+cryptography
+importlib_resources
+opencv-python
+
+# For testing
+coverage
+freezegun
